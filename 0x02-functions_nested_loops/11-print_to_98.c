@@ -1,8 +1,9 @@
 #include <stdio.h>
+#include "main.h"
+
 /**
- *print_to_98 - Print natural numbers from input to 98
- *separated by comma then space
- * @n: The number to begin counting at.
+ * print_to_98 - print all numbers from input to 98
+ * @n: the starting number
  */
 void print_to_98(int n)
 {
